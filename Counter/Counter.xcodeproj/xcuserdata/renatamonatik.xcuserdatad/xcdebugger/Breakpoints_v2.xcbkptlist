@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "EE0EB7DC-6D57-4E7F-830B-D73B9A4BEF20"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C90392D6-CAFD-466E-A320-A7EAA99D4210"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Counter/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "C90392D6-CAFD-466E-A320-A7EAA99D4210 - c363b45850e55662"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Counter.ViewController.plusButton.getter : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "Counter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/renatamonatik/dev/projects/counters/Counter/Counter/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "C90392D6-CAFD-466E-A320-A7EAA99D4210 - ac4ceddec2449c9e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Counter.ViewController.plusButton.setter : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "Counter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/renatamonatik/dev/projects/counters/Counter/Counter/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  uuid = "C90392D6-CAFD-466E-A320-A7EAA99D4210 - 2409b0161a23b6db"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Counter.ViewController.plusButton.modify : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "Counter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/renatamonatik/dev/projects/counters/Counter/Counter/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "C90392D6-CAFD-466E-A320-A7EAA99D4210 - cdf9236e7550f782"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Counter.ViewController.plusButton.modify : Swift.Optional&lt;__C.UIButton&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Counter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/renatamonatik/dev/projects/counters/Counter/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "C90392D6-CAFD-466E-A320-A7EAA99D4210 - 7eb6bac8e90b43a3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Counter.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Counter.ViewController"
+                  moduleName = "Counter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/renatamonatik/dev/projects/counters/Counter/Counter/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "292">
+               </Location>
+               <Location
+                  uuid = "C90392D6-CAFD-466E-A320-A7EAA99D4210 - 26bf69d91f0380dd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Counter.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Counter.ViewController&gt;"
+                  moduleName = "Counter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/renatamonatik/dev/projects/counters/Counter/Counter/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "260">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
